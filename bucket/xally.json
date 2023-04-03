@@ -1,0 +1,16 @@
+{
+    "version": "0.1.3",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/robinmin/xally/releases/download/v0.1.3/xally_Windows_x86_64.zip",
+            "bin": [
+                "xally.exe",
+                "xally_server.exe"
+            ],
+            "hash": "a1195500766d1a0bccfc1625e3b126d670c0ca945342c0fcf60fcd2a6ea7481b"
+        }
+    },
+    "homepage": "https://github.com/robinmin/xally",
+    "license": "GPL-3.",
+    "description": "X-Ally is an AI-based TUI (aka Terminal User Interface) tool that helps people do things more elegantly."
+}
