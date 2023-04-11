@@ -1,13 +1,13 @@
 {
-    "version": "0.1.8",
+    "version": "0.1.9",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/robinmin/xally/releases/download/v0.1.8/xally_Windows_x86_64.zip",
+            "url": "https://github.com/robinmin/xally/releases/download/v0.1.9/xally_Windows_x86_64.zip",
             "bin": [
                 "xally.exe",
                 "xally_server.exe"
             ],
-            "hash": "40237dd1f803f436f9c80919f4da8ab0c6ad192280207bc4ff4a77137888b6d0"
+            "hash": "429a6ddb7e63af654b611e5d70a2acb445bbcc6c669af623735136e12fc661ef"
         }
     },
     "homepage": "https://github.com/robinmin/xally",
