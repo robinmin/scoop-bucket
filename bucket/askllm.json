@@ -1,0 +1,29 @@
+{
+    "version": "0.0.5",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/robinmin/askllm/releases/download/v0.0.5/askllm_Windows_i386.zip",
+            "bin": [
+                "askllm.exe"
+            ],
+            "hash": "d5a5cf9530f20348fcbedcb256bbd80215ecb2e965f8fc93880466bc1a595ece"
+        },
+        "64bit": {
+            "url": "https://github.com/robinmin/askllm/releases/download/v0.0.5/askllm_Windows_x86_64.zip",
+            "bin": [
+                "askllm.exe"
+            ],
+            "hash": "94e2d0672c303cf39f867a3a65e260142296df94c43aad572823969c08d680b2"
+        },
+        "arm64": {
+            "url": "https://github.com/robinmin/askllm/releases/download/v0.0.5/askllm_Windows_arm64.zip",
+            "bin": [
+                "askllm.exe"
+            ],
+            "hash": "d21ac9f6671c014528aa80da71df7a0ebf98ef6395ac87886e6f661d4f92ceb2"
+        }
+    },
+    "homepage": "https://github.com/robinmin/askllm",
+    "license": "Apache License 2.0",
+    "description": "Askllm is a tiny command line tool for you to execute LLM inquiry with prompt or prompt file."
+}
