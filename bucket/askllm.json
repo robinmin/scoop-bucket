@@ -1,26 +1,26 @@
 {
-    "version": "0.1.0",
+    "version": "0.1.1",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/robinmin/askllm/releases/download/v0.1.0/askllm_Windows_i386.zip",
+            "url": "https://github.com/robinmin/askllm/releases/download/v0.1.1/askllm_Windows_i386.zip",
             "bin": [
                 "askllm.exe"
             ],
-            "hash": "b5dfcf99417e210bc728e0d3f3660167a872cc911aca442d7145db06f6db3316"
+            "hash": "e3943b9331e29d261bb7b0213dd126c14e851b3fef324c3fceda3fd8ea2c3561"
         },
         "64bit": {
-            "url": "https://github.com/robinmin/askllm/releases/download/v0.1.0/askllm_Windows_x86_64.zip",
+            "url": "https://github.com/robinmin/askllm/releases/download/v0.1.1/askllm_Windows_x86_64.zip",
             "bin": [
                 "askllm.exe"
             ],
-            "hash": "503b5c2ec1faa14f051fa4d01654127d0c9bdd04ae05d65b3061515528b8d61c"
+            "hash": "27c8c088fc5976eb0113f801606867a4e7665341a9461b0cd20bb0ad8b5e944c"
         },
         "arm64": {
-            "url": "https://github.com/robinmin/askllm/releases/download/v0.1.0/askllm_Windows_arm64.zip",
+            "url": "https://github.com/robinmin/askllm/releases/download/v0.1.1/askllm_Windows_arm64.zip",
             "bin": [
                 "askllm.exe"
             ],
-            "hash": "244d07d4cfba5ac6bdbf191db896c9103fa1e84a01f2d81311b30ccc8b603a51"
+            "hash": "939e0d526d0c79d9c4f45a76a9ed653c9951806d46c7f25215de643831b49d9d"
         }
     },
     "homepage": "https://github.com/robinmin/askllm",
